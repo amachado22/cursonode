@@ -1,0 +1,34 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Curso de node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amachado22/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Adailton Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amachado22/cursonode/issues"
+  },
+  "homepage": "https://github.com/amachado22/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
