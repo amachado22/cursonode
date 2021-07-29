@@ -1,0 +1,1 @@
+Criando txt ficticio para ler com a APi nativa de FS

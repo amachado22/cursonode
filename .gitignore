@@ -1,0 +1,6 @@
+#ARQUIVOS E PASTAS QUE DEVEM SER IGNORADOS
+
+node_modules/
+
+*.zip
+*.rar
